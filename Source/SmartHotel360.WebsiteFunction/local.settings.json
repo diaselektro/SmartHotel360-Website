@@ -1,8 +1,8 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "AccountEndpoint=https://websitecosmosdb-6ay267jvsikva.documents.azure.com:443/;AccountKey=wXUFaPGR7E1PgQT9EPbNtTox4lg0Xo2qzNp6HF44uLjHictqLRQXZJgSze5VbQZH9kAm6y3rF3sAULC3kMM5pQ==;",
-    "AzureWebJobsDashboard": "AccountEndpoint=https://websitecosmosdb-6ay267jvsikva.documents.azure.com:443/;AccountKey=wXUFaPGR7E1PgQT9EPbNtTox4lg0Xo2qzNp6HF44uLjHictqLRQXZJgSze5VbQZH9kAm6y3rF3sAULC3kMM5pQ==;",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storage6ay267jvsikva;AccountKey=fatYbnyHzaR68GH0uv7iNcDwDlY40EroPOMl4XJ72KHPQI0cqbKIeHoWe5SfBn9RxTIgE3jp8oYrzBL7NEXvMg==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=storage6ay267jvsikva;AccountKey=fatYbnyHzaR68GH0uv7iNcDwDlY40EroPOMl4XJ72KHPQI0cqbKIeHoWe5SfBn9RxTIgE3jp8oYrzBL7NEXvMg==;EndpointSuffix=core.windows.net",
     "cosmos_uri": "https://websitecosmosdb-6ay267jvsikva.documents.azure.com:443/",
     "cosmos_key": "wXUFaPGR7E1PgQT9EPbNtTox4lg0Xo2qzNp6HF44uLjHictqLRQXZJgSze5VbQZH9kAm6y3rF3sAULC3kMM5pQ==",
     "constr": "AccountEndpoint=https://websitecosmosdb-6ay267jvsikva.documents.azure.com:443/;AccountKey=wXUFaPGR7E1PgQT9EPbNtTox4lg0Xo2qzNp6HF44uLjHictqLRQXZJgSze5VbQZH9kAm6y3rF3sAULC3kMM5pQ==;",
